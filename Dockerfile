@@ -1,4 +1,4 @@
-FROM pdedkov/php-cli:latest
+FROM pdedkov/php-cli:php5
 MAINTAINER Pavel E. Dedkov <pavel.dedkov@gmail.com>
 
 RUN apt-get update \
